@@ -1,0 +1,5 @@
+C:\Users\Okta\source\repos\ProjectForm\ProjectForm\Debug\ProjectForm.vcxprojAssemblyReference.cache
+C:\Users\Okta\source\repos\ProjectForm\ProjectForm\Debug\ProjectForm.Home.resources
+C:\Users\Okta\source\repos\ProjectForm\ProjectForm\Debug\ProjectForm.Login.resources
+C:\Users\Okta\source\repos\ProjectForm\ProjectForm\Debug\ProjectForm.vcxproj.GenerateResource.cache
+C:\Users\Okta\source\repos\ProjectForm\ProjectForm\Debug\ProjectForm.Perhitungan.resources

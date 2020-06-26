@@ -1,0 +1,5 @@
+D:\Campoes\SEM.2\Struktur Data\Visual Studio\ProjectForm\ProjectForm\x64\Debug\ProjectForm.vcxprojAssemblyReference.cache
+D:\Campoes\SEM.2\Struktur Data\Visual Studio\ProjectForm\ProjectForm\x64\Debug\ProjectForm.Home.resources
+D:\Campoes\SEM.2\Struktur Data\Visual Studio\ProjectForm\ProjectForm\x64\Debug\ProjectForm.Login.resources
+D:\Campoes\SEM.2\Struktur Data\Visual Studio\ProjectForm\ProjectForm\x64\Debug\ProjectForm.Perhitungan.resources
+D:\Campoes\SEM.2\Struktur Data\Visual Studio\ProjectForm\ProjectForm\x64\Debug\ProjectForm.vcxproj.GenerateResource.cache
